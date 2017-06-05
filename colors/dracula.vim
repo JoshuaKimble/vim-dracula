@@ -34,7 +34,7 @@ let colors_name = "dracula"
 
 if has("gui_running")
   let s:vmode      = "gui"
-  let s:background = "#323342"
+  let s:background = "#000000"
   let s:foreground = "#F2F2EC"
   let s:window     = "#7272A5"
   let s:linenr     = "#898A8D"
